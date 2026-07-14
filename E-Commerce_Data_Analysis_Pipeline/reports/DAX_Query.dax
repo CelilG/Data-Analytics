@@ -92,3 +92,19 @@ VAR CustomerSummary =
 RETURN
     TOPN(10, CustomerSummary, [Total Revenue Generated])
 ORDER BY [Total Revenue Generated] DESC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
